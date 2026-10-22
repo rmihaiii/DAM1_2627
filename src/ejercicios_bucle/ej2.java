@@ -21,13 +21,12 @@ public class ej2 {
 			
 			System.out.println(letra);
 			
-			
-			
-			
 			if (letra == ' ') {
 				espacio = true;
 			}
 		}
+		
+		scan.close();
 	}
 
 }
