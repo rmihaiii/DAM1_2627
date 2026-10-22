@@ -10,7 +10,6 @@ public class ej2 {
 
 		boolean espacio = false;
 		String entrada = "";
-		String[] vocales = { "a", "e", "i", "o", "u" };
 
 		while (espacio == false) {
 
