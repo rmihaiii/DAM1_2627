@@ -23,7 +23,7 @@ public class guardianes {
 		matriz[2][1] = 85;
 		matriz[2][2] = 80;
 		matriz[2][3] = 88;
-		
+
 		String guardian = "Star-Lord";
 		
 		int grande = matriz[0][0];
